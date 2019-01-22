@@ -28,6 +28,6 @@ c. Measurement features on O-Scope
 d. Generic D.M.M.
 e. Fluke D.M.M.
 #Test Results:
-![](images/filename56982481689__14DF8C5F-E757-487F-8523-527B2E42BFE6.jpeg
+![](56982481689__14DF8C5F-E757-487F-8523-527B2E42BFE6.jpeg)
 # Discussion
 All of the measured values were within range of our expectations and stayed within the tolerance.
